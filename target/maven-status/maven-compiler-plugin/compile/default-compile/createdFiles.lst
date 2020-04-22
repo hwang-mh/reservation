@@ -1,0 +1,13 @@
+movie\external\PayProcess.class
+movie\MovieListViewHandler.class
+movie\config\kafka\KafkaProcessor.class
+movie\MovieReserved.class
+movie\Application.class
+movie\MovieListRepository.class
+movie\AbstractEvent.class
+movie\ReservationProcessRepository.class
+movie\MovieList.class
+movie\ReservationProcessController.class
+movie\external\PayProcessService.class
+movie\ReservationProcess.class
+movie\PolicyHandler.class
