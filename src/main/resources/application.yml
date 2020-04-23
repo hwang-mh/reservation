@@ -69,4 +69,4 @@ spring:
 
 api:
   url:
-    payment: http://localhost:8083
+    payment: http://payment:8083
